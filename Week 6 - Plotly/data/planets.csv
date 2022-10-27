@@ -1,0 +1,10 @@
+planet,no_of_moons,distance_from_sun,period_of_revolution_around_sun,planet_diameter
+Mercury,0,57.9,87.96,4879
+Venus,0,108.2,224.68,12104
+Earth,1,149.6,365.26,12756
+Mars,2,227.9,686.98,6792
+Jupiter,67,778.6,4332.7,142984
+Saturn,62,1433.5,10759.09,120536
+Uranus,27,2872.5,30707.4,51118
+Neptune,14,4495.1,60198.5,49528
+Pluto,5,5906.4,90474.9,2370
